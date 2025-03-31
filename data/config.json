@@ -100,19 +100,19 @@
         "enabled": false,
         "claim_rewards": true,
         "types": {
-            "bronze": {
-                "enabled": false,
-                "id": "735aa837-1505-4887-80e1-6a6387336a6b",
+           "bronze": {
+                "enabled": true,
+                "id": "020e5df8-4e82-4d7a-9498-6248fb5b9e0f",
                 "max_stars": 18
             },
             "silver": {
                 "enabled": false,
-                "id": "6ec6ed2c-0a87-45d1-a904-4b9a58c81388", 
+                "id": "3dc56849-6dfc-46ee-89df-ebb69c595990", 
                 "max_stars": 23
             },
             "gold": {
                 "enabled": false,
-                "id": "7a9c9d95-6301-4019-9a23-1289b7c7c05f",
+                "id": "f732b263-9ab9-46c9-8e5a-c1f9df5bac4b",
                 "max_stars": 25
             },
             "elite": {
